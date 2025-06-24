@@ -35,5 +35,5 @@ Config.SearchTime = 5 -- Čas progress baru v sekundách
 
 -- Discord Webhook URL
 Config.WebhookURL = "YOUR-DISCORD-WEBHOOK-HERE!" -- Nahraď za tvoj Discord webhook URL
-Config.WebhookAvatar = "https://i.imgur.com/YourAvatar.png" -- Voliteľné: URL avatara pre webhook
-Config.ServerName = "Central RP " -- Názov servera pre embed
+Config.WebhookAvatar = "AVATAR-IMAGE-HERE" -- Voliteľné: URL avatara pre webhook
+Config.ServerName = "SERVER-NAME-HERE" -- Názov servera pre embed
